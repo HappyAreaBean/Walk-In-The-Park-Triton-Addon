@@ -1,0 +1,7 @@
+name: Walk-In-The-Park-Triton-Addon
+version: '${version}'
+main: cc.happyareabean.walkInTheParkTritonAddon.WalkInTheParkTritonAddon
+api-version: '1.13'
+depends:
+  - IP
+  - Triton
