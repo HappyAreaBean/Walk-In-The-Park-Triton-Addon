@@ -1,5 +1,9 @@
 # WalkInTheParkTritonAddon
 
+## Why?
+
+Just because I want to sync player's Triton language when player changed language in WITP. ^_^
+
 ## Overview
 
 The `WalkInTheParkTritonAddon` is an addon designed to integrate the **[Walk in the Park](https://www.spigotmc.org/resources/87226/)** (WITP) parkour plugin with the
